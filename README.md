@@ -1,7 +1,7 @@
 # TSP
 Optimization of travelling salesperson problem (TSP) using PuLP 
 
-In this project, PuLP is used to find the shortest distance route for six cities. Row i and column j of the matrix give c[i][j]. i=1, so the first line represents the starting point. For example, the value in the first row and second column shows the distance from the first city to the second city.
+In this project, PuLP is used to find the shortest distance route for six cities. Row i and column j of the matrix give c[i][j]. i=1, so the first row represents the starting point. For example, the value in the first row and second column shows the distance from the first city to the second city.
 
 Istanbul Medeniyet University, Industrial Engineering Department, END405 Sequencing and Scheduling Lecture, 2023
 
